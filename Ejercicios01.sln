@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicios01", "Ejercicios01\Ejercicios01.csproj", "{4ED7FFBF-3EEE-4A51-9501-64902557020F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios01", "Ejercicios01\Ejercicios01.csproj", "{4ED7FFBF-3EEE-4A51-9501-64902557020F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumadeNumeros", "SumadeNumeros\SumadeNumeros.csproj", "{B82AF125-2798-49C7-AC3A-6A3C5E47D374}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumadeNumeros", "SumadeNumeros\SumadeNumeros.csproj", "{B82AF125-2798-49C7-AC3A-6A3C5E47D374}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{72C45AEF-FB71-4491-8A9B-AF282537675A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "resta", "resta\resta.csproj", "{7422339D-3E52-4FA5-8DC6-9CCE04EEC0C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{72C45AEF-FB71-4491-8A9B-AF282537675A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{72C45AEF-FB71-4491-8A9B-AF282537675A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C45AEF-FB71-4491-8A9B-AF282537675A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C45AEF-FB71-4491-8A9B-AF282537675A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7422339D-3E52-4FA5-8DC6-9CCE04EEC0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7422339D-3E52-4FA5-8DC6-9CCE04EEC0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7422339D-3E52-4FA5-8DC6-9CCE04EEC0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7422339D-3E52-4FA5-8DC6-9CCE04EEC0C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
