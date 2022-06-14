@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace resta
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Que mensaje tiene ahora!");
+            Console.WriteLine("129-8 = " + (129 - 8));
         }
     }
 }
+
