@@ -6,7 +6,7 @@ namespace Ejercicios01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mi mundo!");
+            Console.WriteLine("Hola mi mundo...!");
         }
     }
 }
